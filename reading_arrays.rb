@@ -36,4 +36,4 @@ end
 first_student_by_index
 fourth_student_by_index
 last_student_by_index
-
+first_student_by_method
